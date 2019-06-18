@@ -1,12 +1,12 @@
 <template>
-	<div class="test-layout">
-    <div>test-layout</div>
-    <router-view />
-  </div>
+<div class="test-layout">
+  <div>test-layout</div>
+  <router-view />
+</div>
 </template>
 
 <script>
-  export default{}
+export default {}
 </script>
 
 <style>

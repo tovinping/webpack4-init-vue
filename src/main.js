@@ -10,4 +10,4 @@ let vm = new Vue({
   template: '<App/>',
   components: { App }
 })
-Vue.use({vm})
+Vue.use({ vm })
